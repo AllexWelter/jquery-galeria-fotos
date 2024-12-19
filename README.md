@@ -1,4 +1,4 @@
-# Projeto de criação de uma galeria de fotos utilizando JQuer
+# Projeto de criação de uma galeria de fotos utilizando JQuery
 
 Resultado final do projeto:
 
